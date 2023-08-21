@@ -1,5 +1,5 @@
-#此程式用來將深度相機可以鎖定追蹤"人"，但無法固定目標
 #!/usr/bin/env python3
+#此程式用來將深度相機可以鎖定追蹤"人"，但無法固定目標
 import pyrealsense2 as rs #深度相機函式庫
 import numpy as np  #用來做矩陣運算
 import cv2  #可視化函式庫
